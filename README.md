@@ -1,3 +1,3 @@
 # keylogger
-Chi tiết năm trong báo cáo HĐH.
+Chi tiết năm trong tut.docx  
 Chức năng: Chụp ảnh màn hình, ghi lại bàn phím, startup, ...
