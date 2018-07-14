@@ -1,0 +1,3 @@
+# keylogger
+Chi tiết năm trong báo cáo HĐH.
+Chức năng: Chụp ảnh màn hình, ghi lại bàn phím, startup, ...
