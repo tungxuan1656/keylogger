@@ -1,0 +1,14 @@
+F:\Google Drive\IT\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+F:\Google Drive\IT\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+F:\Google Drive\IT\C#\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+F:\Google Drive\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+F:\Google Drive\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+F:\Google Drive\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+F:\Google Drive\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Keylogger\obj\Debug\Keylogger.pdb

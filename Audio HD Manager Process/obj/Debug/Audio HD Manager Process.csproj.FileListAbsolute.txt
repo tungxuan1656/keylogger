@@ -1,0 +1,13 @@
+F:\Google Drive\IT\C#\Keylogger\Audio HD Manager Process\bin\Debug\Audio HD Manager Process.exe.config
+F:\Google Drive\IT\C#\Keylogger\Audio HD Manager Process\bin\Debug\Audio HD Manager Process.exe
+F:\Google Drive\IT\C#\Keylogger\Audio HD Manager Process\bin\Debug\Audio HD Manager Process.pdb
+F:\Google Drive\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.csproj.CoreCompileInputs.cache
+F:\Google Drive\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.exe
+F:\Google Drive\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.pdb
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\bin\Debug\Audio HD Manager Process.exe.config
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\bin\Debug\Audio HD Manager Process.exe
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\bin\Debug\Audio HD Manager Process.pdb
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.csprojResolveAssemblyReference.cache
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.csproj.CoreCompileInputs.cache
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.exe
+F:\OneDrive - Hanoi University of Science and Technology\IT\C#\Keylogger\Audio HD Manager Process\obj\Debug\Audio HD Manager Process.pdb
